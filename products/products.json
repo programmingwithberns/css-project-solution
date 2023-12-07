@@ -1,0 +1,33 @@
+
+[
+    {
+        "name":"Banana Cake",
+        "description":"A cross between banana bread and a drizzle cake, this easy banana loaf recipe is a quick bake that can be frozen. It's great for using up overripe bananas, too.",
+        "image":"images/banana-cake.jpg"
+    },
+    {
+        "name":"Koki Beans",
+        "description":"Koki Beans - moist, tasty pudding-like steamed treat made with coarsely grounded black-eyed peas and some spinach. Great as a meal on its own or with boiled plantains!",
+        "image":"images/coki-beans.jpg"
+    },
+    {
+        "name":"Jollof Rice",
+        "description":"This JOLLOF RICE and CHICKEN is an easy yet tasty one-pan meal enjoyed in West African countries. It’s bursting with flavors from the tomato sauce, paprika, scotch bonnet, and the juices coming off from the well-seasoned chicken thighs. Serve it over regular nights or as a main course during the holidays!",
+        "image":"images/jollof-rice.jpg"
+    },
+    {
+        "name":"Kwacoco Bible",
+        "description":"Kwacoco Bible - made from grated coco yam and mixed with spinach, smoked fish, red oil and other spices. It is wrapped in plantain leaves, steamed until cooked through. Very filling, flavorful and aromatic side dish!",
+        "image":"images/kwacoco.jpg"
+    },
+    {
+        "name":"Meat Pie",
+        "description":"Meat Pie (Beef Empanada)- slightly sweet, flaky and crusty with a succulent beef filling. Comes together quickly and flies off the table. Simply Delicious!!",
+        "image":"images/meat-pie.jpg"
+    },
+    {
+        "name":"Stewed Spinach",
+        "description":"Stewed Spinach - Super simple way of enjoy spinach African style – bursting with a good amount of greens and delivers the perfect amount of spice. A quick and easy way of putting greens on the table.",
+        "image":"images/spinash-stew.jpg"
+    }
+]

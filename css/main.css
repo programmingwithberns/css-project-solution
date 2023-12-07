@@ -1,0 +1,52 @@
+ /* Custom styles for positioning the image */
+ .left-image {
+    max-width: 100%;
+    height: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #title{
+    font-size: 2.5em;
+  }
+
+  html{
+    background-color:lightgray
+  }
+  body{
+    background-color: #f0f8ff;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    max-width: 1200px;
+    border: 1em inset rgb(199, 199, 241);
+  }
+
+
+  main {
+    flex: 1;
+    
+  }
+
+  footer{
+    background-color: #d3d3d3;
+  }
+
+
+  .product-image{
+    float: left;
+    max-width: 50%;
+    padding: 0.5em;
+    height: auto;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .product-image{
+        float: none;
+        max-width: 100%;
+        height: auto;
+        padding: 0.5em;
+      }
+      
+  }
