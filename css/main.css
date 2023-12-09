@@ -51,11 +51,6 @@
      margin-right: auto;
  }
 
-
-
-
-
-
  .product-image {
      float: left;
      max-width: 50%;
@@ -92,7 +87,6 @@
  }
 
 
-
  @media only screen and (max-width: 600px) {
      .product-image {
          float: none;
@@ -100,5 +94,6 @@
          height: auto;
          padding: 0.5em;
      }
+
 
  }
